@@ -1,4 +1,4 @@
-_target_: models.seed_llama_tokenizer.SeedLlamaTokenizer.from_pretrained
+# _target_: models.seed_llama_tokenizer.SeedLlamaTokenizer.from_pretrained
 pretrained_model_name_or_path: AILab-CVC/seed-tokenizer-2
 fp16: True
 load_diffusion: False
